@@ -1,0 +1,10 @@
+/* ===== DECK ===== *\
+\* ================ */
+.deck {
+    margin: 0 auto;
+    padding: 2em;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}

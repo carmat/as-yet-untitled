@@ -1,0 +1,15 @@
+{
+  "short_name": "As yet untitled",
+  "name": "As yet untitled - A game engine where you set the rules",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
